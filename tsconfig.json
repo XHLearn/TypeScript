@@ -1,0 +1,9 @@
+// https://www.typescriptlang.org/docs/handbook/tsconfig-json.html
+{
+    "compilerOptions": {
+        "target": "es6",
+        "module": "commonjs",
+        "outDir": "out",
+        "sourceMap": true
+    }
+}
